@@ -2,7 +2,16 @@
 node-syslog
 ===========
 
-> Syslog-ng TCP client for node, with basic fault-tolerance.
+Syslog-ng TCP client for node, with basic fault-tolerance.
+
+This is Neil Cherry's clone of Alexis Sellier's syslog project. I found a few
+problem using it under my Linux setup so I decided to clone it before asking
+Alex to make any changes (20131014)
+
+Alexis'
+https://github.com/cloudhead/node-syslog
+Mine
+https://github.com/linuxha/node-syslog
 
 installation
 ------------
@@ -80,5 +89,5 @@ license
 
 See `LICENSE` file.
 
-> Copyright (c) 2011 Alexis Sellier
-
+- Copyright (c) 2011 Alexis Sellier
+- Copyright (c) 2013 Neil Cherry
